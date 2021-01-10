@@ -43,3 +43,5 @@ The current program runs a CLI that will soon be available as a pip package! For
 
 
 ![Usage](/img/CRUD.gif)
+
+cyka blyat
